@@ -249,6 +249,7 @@
 @media(max-width:440px){
     .boxes {
         transform: translateX(8%);
+        scale: 1.4;
       }
 }
 @media(max-width:400px){
